@@ -6,5 +6,5 @@ function theBeatlesPlay(musicians, instrusments)
   {
     play.push(musicians[i], " plays", instruments[i])
   }
-
+return play;
 }
